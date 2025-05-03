@@ -4,8 +4,8 @@
   "url": "https://github.com/sonphan301002/Sondev-Guestbook/releases/tag/v1.1",
   "package": "https://github.com/sonphan301002/Sondev-Guestbook/releases/download/v1.1/sondev-guestbook-v1.1.zip",
   "tested": "6.5",
-  "sections" : {
- 		"description" : "Cập nhật sửa lỗi hiển thị form, cải thiện hiệu năng load dữ liệu."
+  "sections": {
+    "description": "Cập nhật sửa lỗi hiển thị form, cải thiện hiệu năng load dữ liệu.",
     "changelog": "Thay đổi tính năng."
- 	}
+  }
 }
