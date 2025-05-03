@@ -1,0 +1,7 @@
+{
+  "version": "1.1",
+  "url": "https://github.com/sonphan301002/Sondev-Guestbook",
+  "package": "https://github.com/sonphan301002/Sondev-Guestbook/archive/refs/tags/v1.1.zip",
+  "tested": "6.5",
+  "changelog": "Cập nhật sửa lỗi hiển thị form, cải thiện hiệu năng load dữ liệu."
+}
