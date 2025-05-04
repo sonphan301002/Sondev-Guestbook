@@ -1,11 +1,10 @@
 {
   "name": "Sondev Guestbook",
   "version": "1.1",
-  "url": "https://github.com/sonphan301002/Sondev-Guestbook/releases/tag/v1.1",
-  "package": "https://github.com/sonphan301002/Sondev-Guestbook/releases/download/v1.1/sondev-guestbook-v1.1.zip",
-  "tested": "6.5",
+  "download_url": "https://github.com/sonphan301002/Sondev-Guestbook/releases/download/v1.1/sondev-guestbook-v1.1.zip",
   "sections": {
-    "description": "<p><strong>Sondev Guestbook</strong> là plugin cho phép khách truy cập để lại lời nhắn. Cập nhật sửa lỗi hiển thị form, cải thiện hiệu năng load dữ liệu.</p>",
-    "changelog": "<ul><li>Thay đổi tính năng</li><li>Tối ưu hiệu suất</li></ul>"
-  }
+    "description": "<p>Plugin ghi sổ khách.</p>",
+    "changelog": "<ul><li>Sửa lỗi hiển thị</li><li>Cải thiện hiệu năng</li></ul>"
+  },
+  "homepage": "https://github.com/sonphan301002/Sondev-Guestbook"
 }
