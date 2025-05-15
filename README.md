@@ -1,2 +1,2 @@
-# Sondev-Guestbook
+# sondev
 My new plugin
