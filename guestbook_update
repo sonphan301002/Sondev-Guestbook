@@ -1,7 +1,7 @@
 {
   "name": "Sondev Guestbook",
   "version": "1.1",
-  "download_url": "https://github.com/sonphan301002/Sondev-Guestbook/releases/download/v1.1/sondev-guestbook-v1.1.zip",
+  "download_url": "https://github.com/sonphan301002/sondev/releases/download/v1.1/so-luu-but-v1.1.zip",
   "sections": {
     "description": "<p>Plugin ghi sổ khách.</p>",
     "changelog": "<ul><li>Sửa lỗi hiển thị</li><li>Cải thiện hiệu năng</li></ul>"
